@@ -1,0 +1,24 @@
+body{
+    background: linear-gradient(to left,white,rgb(73, 3, 3));
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    text-align: center;
+    font-size: 3rem;
+    font-weight: bold;
+    font-display: initial;
+    text-decoration: underline;
+    font-style: italic;
+}
+#button{
+    padding: 16px;
+    width: 400px;
+    font-size: larger;
+    margin: 5px;
+    border-radius: 20px;
+    background: linear-gradient(to left,white,gray);
+    font-style: italic;
+    font-weight: bold;
+}
